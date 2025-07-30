@@ -11,7 +11,7 @@ Finally, Github and Git are a must when it comes to group work and dev, i can't 
 I want to go further in sport, health, engineerging, ergonomic and performance sciences,
 Thank you !
 
-![Alt text]("C:\Users\Yann\Documents\DigiMove\image\Etudeposturale.png")
 
 
+![Etude Posturale](images/etudeposturale.png)
 
