@@ -13,5 +13,15 @@ Thank you !
 
 
 
-![Etude Posturale](images/etudeposturale.png)
+![etudeposturale](images/etudeposturale.png)
+
+
+This lesson helped me learn more about git and github
+I have learnt the concept of repository, branches...
+I like the fact that you can edit on a "offline" version, and then upload it
+I have been able to display an image from a URL, or from my computer storage
+I have also used the clone fonction
+
+
+It took me 1 hour to complete the lesson !
 
